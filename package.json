@@ -1,0 +1,15 @@
+{
+  "name": "clipstory",
+  "version": "1.0.0",
+  "description": "small electron app to record and reuse clipboard history",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "lint": "standard"
+  },
+  "repository": "https://github.com/gergelyke/clipstory",
+  "devDependencies": {
+    "electron": "~1.6.2",
+    "standard": "10.0.3"
+  }
+}
